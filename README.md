@@ -25,3 +25,8 @@ A história por si é sinistra, e talvez por isso os dados sobre este evento tr�
 O [kaggle](https://www.kaggle.com/) tem uma competição aberta que aborda justamente este DataSet e é de lá que vem os dados que vou fazer a análise exploratória hoje. E não só a análise exploratória. Vou postar também minha evolução dentro da competição. 
 
 Bora pra cima dos dados!!!
+
+## 19/09/2022 
+Hoje subi os arquivos e clonei o repositório na minha máquina. Tambem iniciei a análise exploratória dos dados.
+Está tudo documentado no Notebook. 
+
