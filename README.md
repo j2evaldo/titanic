@@ -22,6 +22,6 @@ O mais foda é que o navio não tinha botes salva vidas para toda tripuluação 
 
 A história por si é sinistra, e talvez por isso os dados sobre este evento trágico chamam tanto atenção de quem está entrando no mundo de Machine Learning.
 
-O kaggle tem uma competição aberta que aborda justamente este DataSet e é de lá que vem os dados que vou fazer a análise exploratória hoje. E não só a análise exploratória. Vou postar também minha evolução dentro da competição. 
+O [kaggle](https://www.kaggle.com/) tem uma competição aberta que aborda justamente este DataSet e é de lá que vem os dados que vou fazer a análise exploratória hoje. E não só a análise exploratória. Vou postar também minha evolução dentro da competição. 
 
 Bora pra cima dos dados!!!
