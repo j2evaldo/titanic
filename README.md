@@ -26,7 +26,13 @@ O [kaggle](https://www.kaggle.com/) tem uma competição aberta que aborda justa
 
 Bora pra cima dos dados!!!
 
-## 19/09/2022 
-Hoje subi os arquivos e clonei o repositório na minha máquina. Tambem iniciei a análise exploratória dos dados.
-Está tudo documentado no Notebook. 
+---
 
+## **Objetivo da Competição**
+
+O objetivo é desenvolver modelos que possam predizer da forma mais assertiva possível quais passageiros sobreviveram e quais não. 
+Como o “alvo” do projeto é algo binário, utilizarei vários modelos de classificação para tentar atingir este objetivo. 
+
+Minha abordagem inicial será a de exploração dos dados para conhecer melhor o DataSet e validar algumas hipóteses e em paralelo com isso  ir trabalhando nos dados faltantes. 
+
+Durante esta etapa também, pretendo ir fazendo anotações à medida em que for conhecendo melhor os dados para que em etapas posteriores eu vá testando diferentes abordagens com a finalidade de melhorar a performance dos modelos empregados.   
