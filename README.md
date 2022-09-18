@@ -9,6 +9,8 @@
   <img src="titanic.png" >
 </p>
 
+- Link para [Notebook do Projeto](https://github.com/j2evaldo/titanic/blob/main/titanic_01.ipynb)
+
 Estudar machine learning sem se deparar com o DataSet do Titanic é quase a mesma coisa que chupar bala com papel, definitivamente não tem a menor graça.
 É quase a mesma coisa do que passar pela vida sem ter tido um fusca ou ser ter corrido uma maratona. Você simplesmente tem que fazer. 
 
